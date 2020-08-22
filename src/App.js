@@ -6,7 +6,7 @@ import {
 import Header from './Header.js';
 import HomePage from './HomePage.js';
 import DailyBounties from './DailyBounties.js';
-import SideNav, { Toggle, Nav, NavItem, NavIcon, NavText } from '@trendmicro/react-sidenav';
+import SideNav, { NavItem, NavIcon, NavText } from '@trendmicro/react-sidenav';
 import '@trendmicro/react-sidenav/dist/react-sidenav.css';
 import './App.css';
 
